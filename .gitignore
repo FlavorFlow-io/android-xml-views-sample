@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Roborazzi writes the canonical reference image and compare output here at run time.
+app/src/test/snapshots/
+app/build/outputs/roborazzi/

@@ -1,0 +1,6 @@
+<resources>
+    <!-- apply-flavor-action rewrites app_name per client. -->
+    <string name="app_name">FlavorFlow XML Sample</string>
+    <string name="primary_button">Primary color button</string>
+    <string name="secondary_button">Secondary color button</string>
+</resources>

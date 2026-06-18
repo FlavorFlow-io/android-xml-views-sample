@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors — apply-flavor-action (project-type: android-native-xml)
+         OVERWRITES this file per client, keeping these exact names. -->
+    <color name="primary_color">#6650A4</color>
+    <color name="secondary_color">#625B71</color>
+    <color name="background_color">#FFFBFE</color>
+    <color name="surface_color">#FFFBFE</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background">#1C1B1F</color>
+    <color name="on_surface">#1C1B1F</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
